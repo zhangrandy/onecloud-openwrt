@@ -1,5 +1,5 @@
 
-# 玩客云openwrt/lede 24.10.2 + Passwall
+# 玩客云openwrt/lede
 
 ## 使用方法
 
